@@ -1,4 +1,4 @@
-In this model, I predicted the salary on an employee(manager) who switched from one comapny to another.
+In this model, I predicted the salary on an employee(manager) who switched from one comapny to another. His position level is 6.
 
  
  
